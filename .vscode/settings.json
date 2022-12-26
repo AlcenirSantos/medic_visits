@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "args": [
+        "--no-sound-null-safety"
+       ]
+}

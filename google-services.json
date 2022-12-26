@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922425962648",
+    "project_id": "lab-visitas",
+    "storage_bucket": "lab-visitas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922425962648:android:9aafea69d4a86c5600a0ed",
+        "android_client_info": {
+          "package_name": "com.example.lab_visitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922425962648-tq034413svmkd0lvkcheg8v5fsvago9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJdn8B5c5470uAt0UYZ36Y_PrBpIUzw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922425962648-tq034413svmkd0lvkcheg8v5fsvago9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
